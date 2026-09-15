@@ -1,12 +1,27 @@
-- 👋 Hi, I’m @Fomorianshifter
-- 👀 I’m interested in ... Security
-- 🌱 I’m currently learning ...JavaScript & Algorithms
-- 💞️ I’m looking to collaborate on .. Nothing right now.
-- 📫 How to reach me ... Send me an email, I'll get it.
-- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ... The average person walks past 36 murderers in their lifetime.
+# Nicholas Lane
 
-<!---
-Fomorianshifter/Fomorianshifter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Web developer and industrial technician in training. Wisconsin. He/Him.
+
+GitHub display name is **Beau** (`@Fomorianshifter`). Professional name is **Nicholas Lane**.
+
+**Site:** [fomorianshifter.github.io](https://fomorianshifter.github.io)  
+**Email:** [nlane713@gmail.com](mailto:nlane713@gmail.com)  
+**X:** [@FastLaneTarot](https://x.com/FastLaneTarot)
+
+Certified in HTML, CSS, and JavaScript. Currently studying algorithms and data structures, Python (FreeCodeCamp), OSHA 30, NCCER Industrial Electrician, ETA Industrial Electronics, and PLC / industrial automation.
+
+## Selected work
+
+| Project | What it is |
+| --- | --- |
+| [Locus](https://fomorianshifter.github.io/locus.html) | Interactive function grapher — zoom, pan, grid, cursor readout |
+| [Loki](https://github.com/Fomorianshifter/Loki) | Embedded dragon companion for Linux SBCs (C, Python, HAL, TFT, Flipper Zero) |
+| [Solar System](https://github.com/Fomorianshifter/SolarSystem) | Early planet-orbit / alignment visualization |
+| [One](https://github.com/Fomorianshifter/One) | Microsoft Web-Dev-For-Beginners coursework (HTML, CSS, JavaScript) |
+
+## Path
+
+- **Certified:** HTML, CSS, JavaScript
+- **In progress:** Algorithms & data structures · Python · OSHA 30 · NCCER Industrial Electrician · ETA Industrial Electronics · PLC / industrial automation
+
+I learn in public. Curriculum work is labeled as foundation, not as a finished product.
